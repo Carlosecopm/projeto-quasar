@@ -1,6 +1,6 @@
 <template>
   <q-page class="container">
-    <div class="row">
+    <div class="row q-pa-sm">
       <div class="col-3">
         <q-card class="my-card">
       <img src="https://cdn.quasar.dev/img/mountains.jpg">
